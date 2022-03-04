@@ -3,10 +3,12 @@
 body {
     font-family: Poppins;
     min-height: 100vh;
-    background: url('/img/dashboard/login/Group4.svg');
-    background-repeat: no-repeat;
-    background-position: bottom;
-    background-size: auto 37%;
+    overflow: hidden;
+    background: url('/img/dashboard/login/Group4.svg'), url('/img/dashboard/login/ornamen_atas_kanan.png');
+    background-repeat: no-repeat, no-repeat;
+    background-position: bottom, top 24px right;
+    background-size: 100% auto, 5vw auto;
+    z-index: 0;
 }
 
 @media (min-width: 576px) and (max-width: 768px) {
@@ -22,9 +24,19 @@ body {
 }
 
 .navbar {
-    font-size: 1.2rem;
+    font-size: 0.9rem;
     background-color: #0A5446;
-    ;
+    
+}
+
+.navbar .navbar-nav {
+    text-decoration: none;
+    color: #fff;
+    transition: 0.2s;
+}
+
+.navbar .navbar-nav:hover {
+    color: #B7D8CB;
 }
 
 .navbar .dropdown-menu {
@@ -71,4 +83,31 @@ body {
 #mobile .nav-link:hover:after {
     width: 100%;
     background: white;
+}
+
+/* 
+    PANEL LOGIN
+*/
+
+.text-green {
+    color: #0A5446;
+}
+
+#loginpanel {
+    min-height: 100vh;
+    background: url('/img/dashboard/login/ornamen_atas_kanan.png');
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: cover;
+    z-index: 1000;
+}
+
+#loginPanel a {
+    color: #0A5446;
+    background-color: #EAF8E4;
+    transition: 0.2s;
+}
+
+#loginPanel a:hover {
+    background-color: #D2DFCD;
 }

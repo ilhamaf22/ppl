@@ -1,20 +1,20 @@
-<section id="riset4" class="py-5">
+<section id="riset4" class="py-2">
     <section id="firstSec">
-        <div class="container-fluid py-5">
+        <div class="container-fluid">
             <div class="row">
                 <div class="col" data-aos="fade-up" data-aos-duration="1000">
-                    <h1 class="green">Latar Belakang</h1>
-                </div>          
+                    <h1 class="green headline">Latar Belakang</h1>
+                </div>
             </div>
-            <div class="row mb-5 ms-5 ps-5" data-aos="fade-left" data-aos-duration="1000">
+            <div class="row mb-5 ms-md-5 ps-md-5 ms-sm-0 ps-sm-0" data-aos="fade-left" data-aos-duration="1000">
                 <div class="col-md-8 col-12 align-item-center">
                     <div class="par content">
                         <p>
-                            Praktik Kerja Lapangan Politeknik Statistika STIS Tahun Akademik 2021/2022 mengangkat 
-                            tema “Towards Sustainable Agriculture” dalam rangka mendukung kegiatanSensus Pertanian 2023. 
-                            Pelaksanaan PKL tersebut diwujudkan dalam bentuk 5 riset utama. Salah satunya dalam Kajian 
-                            Riset IV yang membahas mengenai “Indeks Keberlanjutan Pertanian Subsektor Tanaman Pangan”. 
-                            Kajian Riset IV ini akan dilaksanakan di Kabupaten Garut dan Kabupaten Tasikmalaya, Provinsi 
+                            Praktik Kerja Lapangan Politeknik Statistika STIS Tahun Akademik 2021/2022 mengangkat
+                            tema “Towards Sustainable Agriculture” dalam rangka mendukung kegiatanSensus Pertanian 2023.
+                            Pelaksanaan PKL tersebut diwujudkan dalam bentuk 5 riset utama. Salah satunya dalam Kajian
+                            Riset IV yang membahas mengenai “Indeks Keberlanjutan Pertanian Subsektor Tanaman Pangan”.
+                            Kajian Riset IV ini akan dilaksanakan di Kabupaten Garut dan Kabupaten Tasikmalaya, Provinsi
                             Jawa Barat.Pembangunan pertanian berperan strategis dalam perekonomian nasional. Peran
                             strategis tersebut ditunjukkan oleh perannya dalam pembentukan kapital, penyediaan bahan
                             pangan, bahan baku industri, pakan dan bioenergi, penyerap tenaga kerja, sumber devisa
@@ -33,16 +33,18 @@
                         </p>
                     </div>
                 </div>
-                <div class="col-md-4 d-md-block d-none text-end">
-                    <img  class="img" src="../../img/landing_page/riset4/ornamen 4 rot.png" alt="Ornamen 4">
-                </div>
+                <!-- <div class="col-md-4 d-md-block d-none text-end">
+                    <img class="img" src="../../img/landing_page/riset4/ornamen 4 rot.png" alt="Ornamen 4">
+                </div> -->
             </div>
-
-            <div class="row me-5 pe-5" data-aos="fade-right" data-aos-duration="1000">
+    </section>
+    <section id="firstSecB">
+        <div class="container-fluid">
+            <div class="row me-md-5 pe-md-5 me-sm-2" data-aos="fade-right" data-aos-duration="1000">
                 <div class="col-md-4 d-md-block d-none">
-                    <img  class="img" src="../../img/landing_page/riset4/ornamen 4.png" alt="Ornamen 4 rotate">
+                    <!-- <img class="img" src="../../img/landing_page/riset4/ornamen 4.png" alt="Ornamen 4 rotate"> -->
                 </div>
-                <div class="col-md-8 col-12 align-item-center">
+                <div class="col-md-8 col-12 align-item-center ">
                     <div class="par content">
                         <p>
                             Pembangunan pertanian berkelanjutan bertujuan untuk meningkatkan pendapatan dan
@@ -73,27 +75,27 @@
     </section>
 
     <section id="secondSec">
-        <div class="container-fluid">
-            <div class="row pt-5" data-aos="fade-up" data-aos-duration="1000">
-                <h1 class="white">Tujuan</h1>                                                                        
+        <div class="container-fluid py-md-5 py-sm-3">
+            <div class="row pt-md-5 pt-sm-3" data-aos="fade-up" data-aos-duration="1000">
+                <h1 class="white headline">Tujuan</h1>
             </div>
             <div class="row" data-aos="zoom-in" data-aos-duration="1000">
                 <p class="txt">
-                    Mendapatkan indikator-indikator keberlanjutan subsektor tanaman pangan 
-                    dan menggambarkan kondisi dari setiap indikator di Kabupaten Garut dan 
+                    Mendapatkan indikator-indikator keberlanjutan subsektor tanaman pangan
+                    dan menggambarkan kondisi dari setiap indikator di Kabupaten Garut dan
                     Kabupaten Tasikmalaya
                 </p>
             </div>
             <div class="row" data-aos="zoom-in" data-aos-duration="1000">
                 <p class="txt">
-                    Mengestimasi indikator-indikator keberlanjutan subsektor tanaman pangan 
-                    pada level kecamatan menggunakan metode Small Area Estimation using 
+                    Mengestimasi indikator-indikator keberlanjutan subsektor tanaman pangan
+                    pada level kecamatan menggunakan metode Small Area Estimation using
                     Hierarchical Bayesian (SAE-HB)
                 </p>
             </div>
             <div class="row" data-aos="zoom-in" data-aos-duration="1000">
                 <p class="txt">
-                    Membangun Indeks Keberlanjutan Subsektor Tanaman Pangan (IKSTP) dan 
+                    Membangun Indeks Keberlanjutan Subsektor Tanaman Pangan (IKSTP) dan
                     menganalisis IKSTP Kabupaten Garut dan Kabupaten Tasikmalaya.
                 </p>
             </div>
@@ -101,9 +103,9 @@
     </section>
 
     <section id="thirdSec">
-        <div class="container-fluid py-5">
+        <div class="container-fluid py-md-3 py-sm-0">
             <div class="row" data-aos="fade-up" data-aos-duration="1000">
-                <h1 class="green">Ruang Lingkup</h1>
+                <h1 class="green headline mb-sm-0 mb-md-5">Ruang Lingkup</h1>
             </div>
             <div class="d-none d-md-block fifth">
                 <div class="row konten justify-content-center">
@@ -221,20 +223,20 @@
                         </div>
                     </div>
                 </div>
-            </div>   
-        </div>    
+            </div>
+        </div>
     </section>
 
     <section id="fourthSec">
-        <div class="container-fluid py-5">
+        <div class="container-fluid py-md-5 py-sm-3">
             <div class="container" data-aos="zoom-in" data-aos-duration="1000">
                 <div class="nav nav-tabs nav-fill" id="nav-tab" role="tablist">
-                    <button class="nav-link active" id="dimensi1-tab" data-bs-toggle="tab" data-bs-target="#dimensi1" type="button" role="tab" aria-controls="dimensi1" aria-selected="true">Dimensi 1</button>                   
-                    <button class="nav-link" id="dimensi2-tab" data-bs-toggle="tab" data-bs-target="#dimensi2" type="button" role="tab" aria-controls="dimensi2" aria-selected="false">Dimensi 2</button>                   
+                    <button class="nav-link active" id="dimensi1-tab" data-bs-toggle="tab" data-bs-target="#dimensi1" type="button" role="tab" aria-controls="dimensi1" aria-selected="true">Dimensi 1</button>
+                    <button class="nav-link" id="dimensi2-tab" data-bs-toggle="tab" data-bs-target="#dimensi2" type="button" role="tab" aria-controls="dimensi2" aria-selected="false">Dimensi 2</button>
                     <button class="nav-link" id="dimensi3-tab" data-bs-toggle="tab" data-bs-target="#dimensi3" type="button" role="tab" aria-controls="dimensi3" aria-selected="false">Dimensi 3</button>
                     <button class="nav-link" id="dimensi4-tab" data-bs-toggle="tab" data-bs-target="#dimensi4" type="button" role="tab" aria-controls="dimensi4" aria-selected="false">Dimensi 4</button>
                     <button class="nav-link" id="dimensi5-tab" data-bs-toggle="tab" data-bs-target="#dimensi5" type="button" role="tab" aria-controls="dimensi5" aria-selected="false">Dimensi 5</button>
-                </div>         
+                </div>
                 <div class="tab-content" id="nav-tabContent">
                     <div class="tab-pane fade show active" id="dimensi1" role="tabpanel" aria-labelledby="dimensi1-tab">
                         <h1 class="dim">Dimensi Lahan</h1>
@@ -253,7 +255,7 @@
                                                 <div class="col-md-5 my-auto text-center">
                                                     <h3>Variabel Rata-Rata Luas Tanam Tanaman Pangan Yang Dikuasai/Diusahakan</h3>
                                                 </div>
-                                                <div class="col-md-6 ms-4">
+                                                <div class="col-md-6 m-4">
                                                     <div class="card">
                                                         <div class="card-body">
                                                             <p class="card-text">
@@ -272,7 +274,7 @@
                                                 <div class="col-md-5 my-auto text-center">
                                                     <h3>Variabel Rata-Rata Luas Lahan Yang Diirigasi</h3>
                                                 </div>
-                                                <div class="col-md-6 ms-4">
+                                                <div class="col-md-6 m-4">
                                                     <div class="card">
                                                         <div class="card-body">
                                                             <p class="card-text">
@@ -291,7 +293,7 @@
                                                 <div class="col-md-5 my-auto text-center">
                                                     <h3>Variabel Rata-Rata Produktivitas Lahan Pertanian Tanaman Pangan</h3>
                                                 </div>
-                                                <div class="col-md-6 ms-4">
+                                                <div class="col-md-6 m-4">
                                                     <div class="card">
                                                         <div class="card-body">
                                                             <p class="card-text">
@@ -310,7 +312,7 @@
                                                 <div class="col-md-5 my-auto text-center">
                                                     <h3>Variabel Persentase RTUP-TP Dengan Lahan Yang Jauh Dari Industri Atau Komplek Pemukiman</h3>
                                                 </div>
-                                                <div class="col-md-6 ms-4">
+                                                <div class="col-md-6 m-4">
                                                     <div class="card">
                                                         <div class="card-body">
                                                             <p class="card-text">
@@ -327,7 +329,7 @@
                                     </div>
                                 </div>
                             </div>
-                        </div>                              
+                        </div>
                     </div>
                     <div class="tab-pane fade" id="dimensi2" role="tabpanel" aria-labelledby="dimensi2-tab">
                         <h1 class="dim">Dimensi Regenerasi Petani</h1>
@@ -347,7 +349,7 @@
                                                 <div class="col-md-5 my-auto text-center">
                                                     <h3>Variabel Total Jumlah ART Yang Mengelola Atau Mengusahakan Pertanian Tanaman Pangan</h3>
                                                 </div>
-                                                <div class="col-md-6 ms-4">
+                                                <div class="col-md-6 m-4">
                                                     <div class="card">
                                                         <div class="card-body">
                                                             <p class="card-text">
@@ -366,7 +368,7 @@
                                                 <div class="col-md-5 my-auto text-center">
                                                     <h3>Variabel Persentase RTUP-TP Dengan Tingkat Pendidikan Terakhir Petani Utama Minimal SMA</h3>
                                                 </div>
-                                                <div class="col-md-6 ms-4">
+                                                <div class="col-md-6 m-4">
                                                     <div class="card">
                                                         <div class="card-body">
                                                             <p class="card-text">
@@ -385,7 +387,7 @@
                                                 <div class="col-md-5 my-auto text-center">
                                                     <h3>Variabel Rata-Rata Lama Petani Utama Berusaha Pertanian Tanaman Pangan</h3>
                                                 </div>
-                                                <div class="col-md-6 ms-4">
+                                                <div class="col-md-6 m-4">
                                                     <div class="card">
                                                         <div class="card-body">
                                                             <p class="card-text">
@@ -404,7 +406,7 @@
                                                 <div class="col-md-5 my-auto text-center">
                                                     <h3>Variabel Persentase RTUP-TP Dengan Petani Utama Yang Memiliki Hak Atas Tanah Tanaman Pangan</h3>
                                                 </div>
-                                                <div class="col-md-6 ms-4">
+                                                <div class="col-md-6 m-4">
                                                     <div class="card">
                                                         <div class="card-body">
                                                             <p class="card-text">
@@ -423,7 +425,7 @@
                                                 <div class="col-md-5 my-auto text-center">
                                                     <h3>Variabel Persentase RTUP-TP Yang Memiliki Anak Yang Akan Melanjutkan Usaha Pertanian Tanaman Pangan</h3>
                                                 </div>
-                                                <div class="col-md-6 ms-4">
+                                                <div class="col-md-6 m-4">
                                                     <div class="card">
                                                         <div class="card-body">
                                                             <p class="card-text">
@@ -458,7 +460,7 @@
                                                 <div class="col-md-5 my-auto text-center">
                                                     <h3>Variabel Rata-Rata Pendapatan Bersih Petani Utama</h3>
                                                 </div>
-                                                <div class="col-md-6 ms-4">
+                                                <div class="col-md-6 m-4">
                                                     <div class="card">
                                                         <div class="card-body">
                                                             <p class="card-text">
@@ -477,7 +479,7 @@
                                                 <div class="col-md-5 my-auto text-center">
                                                     <h3>Variabel Persentase RTUP-TP Yang Mendapatkan Bantuan Pemerintah</h3>
                                                 </div>
-                                                <div class="col-md-6 ms-4">
+                                                <div class="col-md-6 m-4">
                                                     <div class="card">
                                                         <div class="card-body">
                                                             <p class="card-text">
@@ -496,7 +498,7 @@
                                                 <div class="col-md-5 my-auto text-center">
                                                     <h3>Variabel Persentase RTUP-TP Yang Menggunakan Modal Mandiri</h3>
                                                 </div>
-                                                <div class="col-md-6 ms-4">
+                                                <div class="col-md-6 m-4">
                                                     <div class="card">
                                                         <div class="card-body">
                                                             <p class="card-text">
@@ -531,7 +533,7 @@
                                                 <div class="col-md-5 my-auto text-center">
                                                     <h3>Variabel Total Alat Pertanian Tanaman Pangan </h3>
                                                 </div>
-                                                <div class="col-md-6 ms-4">
+                                                <div class="col-md-6 m-4">
                                                     <div class="card">
                                                         <div class="card-body">
                                                             <p class="card-text">
@@ -550,7 +552,7 @@
                                                 <div class="col-md-5 my-auto text-center">
                                                     <h3>Variabel Total Mesin Pertanian Tanaman Pangan </h3>
                                                 </div>
-                                                <div class="col-md-6 ms-4">
+                                                <div class="col-md-6 m-4">
                                                     <div class="card">
                                                         <div class="card-body">
                                                             <p class="card-text">
@@ -569,7 +571,7 @@
                                                 <div class="col-md-5 my-auto text-center">
                                                     <h3>Variabel Persentase RTUP-TP Dengan Petani Utama Yang Mengikuti Pelatihan/Penyuluhan Teknologi Pertanian Tanaman Pangan</h3>
                                                 </div>
-                                                <div class="col-md-6 ms-4">
+                                                <div class="col-md-6 m-4">
                                                     <div class="card">
                                                         <div class="card-body">
                                                             <p class="card-text">
@@ -606,7 +608,7 @@
                                                 <div class="col-md-5 my-auto text-center">
                                                     <h3>Variabel Persentase RTUP-TP Yang Menggunakan Pupuk Organik</h3>
                                                 </div>
-                                                <div class="col-md-6 ms-4">
+                                                <div class="col-md-6 m-4">
                                                     <div class="card">
                                                         <div class="card-body">
                                                             <p class="card-text">
@@ -625,7 +627,7 @@
                                                 <div class="col-md-5 my-auto text-center">
                                                     <h3>Variabel Persentase RUTP-TP Yang Menerapkan Manajemen Penggunaan Pupuk</h3>
                                                 </div>
-                                                <div class="col-md-6 ms-4">
+                                                <div class="col-md-6 m-4">
                                                     <div class="card">
                                                         <div class="card-body">
                                                             <p class="card-text">
@@ -644,7 +646,7 @@
                                                 <div class="col-md-5 my-auto text-center">
                                                     <h3>Variabel Persentase RTUP-TP Yang Menggunakan Pestisida Hayati Atau Nabati</h3>
                                                 </div>
-                                                <div class="col-md-6 ms-4">
+                                                <div class="col-md-6 m-4">
                                                     <div class="card">
                                                         <div class="card-body">
                                                             <p class="card-text">
@@ -663,7 +665,7 @@
                                                 <div class="col-md-5 my-auto text-center">
                                                     <h3>Variabel Persentase RTUP-TP Yang Memiliki Manajemen Penggunaan Pestisida</h3>
                                                 </div>
-                                                <div class="col-md-6 ms-4">
+                                                <div class="col-md-6 m-4">
                                                     <div class="card">
                                                         <div class="card-body">
                                                             <p class="card-text">
@@ -682,7 +684,7 @@
                                                 <div class="col-md-5 my-auto text-center">
                                                     <h3>Variabel Persentase RTUP Yang Melakukan Pembenahan Tanah</h3>
                                                 </div>
-                                                <div class="col-md-6 ms-4">
+                                                <div class="col-md-6 m-4">
                                                     <div class="card">
                                                         <div class="card-body">
                                                             <p class="card-text">
@@ -707,10 +709,10 @@
     </section>
 
     <section id="fifthSec">
-        <div class="container-fluid py-5">
+        <div class="container-fluid pt-4">
             <div class="container">
                 <div class="row pt-3" data-aos="zoom-in" data-aos-duration="1000">
-                    <h3 class="dim">Hasil Penelitian</h3>
+                    <h3 class="dim headline">Hasil Penelitian</h3>
                     <div id="hasil-penelitian" class="carousel slide" data-bs-ride="carousel">
                         <div class="carousel-indicators">
                             <button type="button" data-bs-target="#hasil-penelitian" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
@@ -724,10 +726,10 @@
                                 <div class="row mb-5 justify-content-evenly">
                                     <div class="col-md-5 my-auto text-center">
                                         <div class="card">
-                                            <img src="/img/landing_page/riset4/income current week.png" class="img-card" alt="income current week">
+                                            <img class="img-fluid mx-auto my-auto" src="/img/landing_page/riset4/income current week.png" class="img-card" alt="income current week">
                                         </div>
                                     </div>
-                                    <div class="col-md-6 ms-4">
+                                    <div class="col-md-6 m-4">
                                         <div class="card">
                                             <div class="card-body">
                                                 <h5 class="card-title">Hasil Pembahasan 1</h5>
@@ -746,10 +748,10 @@
                                 <div class="row mb-5 justify-content-evenly">
                                     <div class="col-md-5 my-auto text-center">
                                         <div class="card">
-                                            <img src="/img/landing_page/riset4/income current week.png" class="img-card" alt="income current week">
-                                        </div>                                   
+                                            <img class="img-fluid mx-auto my-auto" src="/img/landing_page/riset4/income current week.png" class="img-card" alt="income current week">
+                                        </div>
                                     </div>
-                                    <div class="col-md-6 ms-4">
+                                    <div class="col-md-6 m-4">
                                         <div class="card">
                                             <div class="card-body">
                                                 <h5 class="card-title">Hasil Pembahasan 2</h5>
@@ -768,10 +770,10 @@
                                 <div class="row mb-5 justify-content-evenly">
                                     <div class="col-md-5 my-auto text-center">
                                         <div class="card">
-                                            <img src="/img/landing_page/riset4/income current week.png" class="img-card" alt="income current week">
+                                            <img class="img-fluid mx-auto my-auto" src="/img/landing_page/riset4/income current week.png" class="img-card" alt="income current week">
                                         </div>
                                     </div>
-                                    <div class="col-md-6 ms-4">
+                                    <div class="col-md-6 m-4">
                                         <div class="card">
                                             <div class="card-body">
                                                 <h5 class="card-title">Hasil Pembahasan 3</h5>
@@ -790,10 +792,10 @@
                                 <div class="row mb-5 justify-content-evenly">
                                     <div class="col-md-5 my-auto text-center">
                                         <div class="card">
-                                            <img src="/img/landing_page/riset4/income current week.png" class="img-card" alt="income current week">
+                                            <img class="img-fluid mx-auto my-auto" src="/img/landing_page/riset4/income current week.png" class="img-card" alt="income current week">
                                         </div>
                                     </div>
-                                    <div class="col-md-6 ms-4">
+                                    <div class="col-md-6 m-4">
                                         <div class="card">
                                             <div class="card-body">
                                                 <h5 class="card-title">Hasil Pembahasan 4</h5>
@@ -812,10 +814,10 @@
                                 <div class="row mb-5 justify-content-evenly">
                                     <div class="col-md-5 my-auto text-center">
                                         <div class="card">
-                                            <img src="/img/landing_page/riset4/income current week.png" class="img-card" alt="income current week">
+                                            <img class="img-fluid mx-auto my-auto" src="/img/landing_page/riset4/income current week.png" class="img-card" alt="income current week">
                                         </div>
                                     </div>
-                                    <div class="col-md-6 ms-4">
+                                    <div class="col-md-6 m-4">
                                         <div class="card">
                                             <div class="card-body">
                                                 <h5 class="card-title">Hasil Pembahasan 5</h5>
